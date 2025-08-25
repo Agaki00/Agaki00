@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agaki00
+- 👋 Hi, I’m @Agaki
 - 👀 I’m interested in creating responsive web pages 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on it.
