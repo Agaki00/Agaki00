@@ -275,7 +275,7 @@ p {
     .p-hide-large {display: none !important;}
     .p-sidebar {display: inline-block !important;}
   }
-  @media (max-width: 992px) and (min-width:545px){
+  @media (max-width: 992px) and (min-width:465px){
     .p-hide-medium{display:none!important}
     .p-sidebar{display: inline-block;}
   }
