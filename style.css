@@ -264,7 +264,7 @@ p {
 
   /*side bar devices display controls*/
  
-  @media (max-width:465px){
+  @media (max-width:400px){
     .p-hide-small {
       display: none !important;
     }
@@ -275,7 +275,7 @@ p {
     .p-hide-large {display: none !important;}
     .p-sidebar {display: inline-block !important;}
   }
-  @media (max-width: 992px) and (min-width:465px){
+  @media (max-width: 992px) and (min-width:400px){
     .p-hide-medium{display:none!important}
     .p-sidebar{display: inline-block;}
   }
