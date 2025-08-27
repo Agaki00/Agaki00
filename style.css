@@ -271,7 +271,7 @@ p {
 
     .p-main { width: 100% !important; margin: 0 !important; padding-top: 20px !important;}
   }
-  @media (min-width:993px){
+  @media (min-width:767px){
     .p-hide-large {display: none !important;}
     .p-sidebar {display: inline-block !important;}
   }
