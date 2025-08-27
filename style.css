@@ -264,7 +264,7 @@ p {
 
   /*side bar devices display controls*/
  
-  @media (max-width:545px){
+  @media (max-width:465px){
     .p-hide-small {
       display: none !important;
     }
