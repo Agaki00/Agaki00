@@ -264,18 +264,18 @@ p {
 
   /*side bar devices display controls*/
  
-  @media (max-width:481px){
+  @media (max-width:545px){
     .p-hide-small {
       display: none !important;
     }
 
     .p-main { width: 100% !important; margin: 0 !important; padding-top: 20px !important;}
   }
-  @media (min-width:767px){
+  @media (min-width:993px){
     .p-hide-large {display: none !important;}
     .p-sidebar {display: inline-block !important;}
   }
-  @media (max-width: 767px) and (min-width:481px){
+  @media (max-width: 992px) and (min-width:545px){
     .p-hide-medium{display:none!important}
     .p-sidebar{display: inline-block;}
   }
@@ -317,7 +317,7 @@ hr.under-name {
 .h2 {
   line-height: 1;
 }
-.p1, .highlight {
+.p1 {
   color: gray !important;
 }
 .services {
@@ -338,7 +338,7 @@ hr.under-name {
 .service ul {
   padding-left: 20px;
 }
-.services li {
+.highlight, .services li {
   color: #ccc;
   list-style-type: disc;
 }
@@ -350,17 +350,8 @@ hr.under-name {
 .border1 {
   border-radius: 40px;
 }
-.tfb2 {
-    background-color: #dd1e2f;
-}
-.tsb2 {
-    background-color: #ebb035;
-}
-.ttb2 {
-    background-color: #5bc0de;
-}
-.t4b2 {
-  background-color: #5cb85c;
+.b-color {
+    background-color: #9b9a9a;
 }
 .downloadB {
     font-size: 20px;
@@ -376,7 +367,7 @@ hr.under-name {
     padding: 20px;
     background-color: grey;
 }
-.h4-contact  {
+.hz-contact  {
   color: #000;
   font-size: 24px;
   text-align: left !important;
@@ -388,7 +379,7 @@ hr.under-name {
     background-color: #2f2f2f;
 }
 .place {
-    background-color: #29866a;
+    border: 2px solid #ccc;
 }
 .place, .email, .phone {
     width: 100%;
@@ -460,7 +451,7 @@ button {
 .footer p {
   color: white;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 
